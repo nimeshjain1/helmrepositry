@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mytrialchart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-10-11T05:03:37.534830018-07:00
+    description: A Helm chart for Kubernetes
+    digest: 4ad9cb1e27a303f98f0ba533c670ac08c29ba51f0def857dfa03f4fc8b6ef700
+    name: mytrialchart
+    urls:
+    - mytrialchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-11T05:03:37.534220247-07:00
